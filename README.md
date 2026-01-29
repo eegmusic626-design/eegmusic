@@ -4,21 +4,21 @@ This page contains audio samples for paper "EEG Music Alignment: A Revisit of En
 
 ## Careless Love
 
-| Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel |
+| Original | Upperbound | Ridge | Ours | EEG2Mel |
 |----------|------------|-------|------------|--------|---------|
-| <audio controls><source src="assets/careless_love-10_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <audio controls><source src="assets/careless_love-10_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 ## Canopee
 
-| Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel |
+| Original | Upperbound | Ridge | Ours | EEG2Mel |
 |----------|------------|-------|------------|--------|---------|
-| <audio controls><source src="assets/canopee-7_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | 
+| <audio controls><source src="assets/canopee-7_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | 
 
 ## Ainvayi Ainvayi
 
-| Original | Upperbound | Ridge | Ours | Linear | EEG2Mel|
+| Original | Upperbound | Ridge | Ours | EEG2Mel|
 |----------|------------|-------|------------|--------|---------|
-| <audio controls><source src="assets/ainvayi_ainvayi-4_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | 
+| <audio controls><source src="assets/ainvayi_ainvayi-4_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | 
 
 ---
 
